@@ -2,7 +2,7 @@ body {
     background-color: black;
 }
 
-ol li a{
+a{
     color: crimson;
 }
 
@@ -12,4 +12,19 @@ ol li {
 
 h1 {
     color: white;
+}
+
+tr{
+    color: white;
+}
+
+th{
+    background-color: crimson;
+}
+
+td a{
+    text-decoration: overline;
+    text-decoration: underline;
+    text-decoration: dashed;
+    text-decoration: dotted;
 }
