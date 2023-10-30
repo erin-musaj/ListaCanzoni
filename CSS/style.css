@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+}
+
+ol li a{
+    color: crimson;
+}
+
+ol li {
+    color: white;
+}
+
+h1 {
+    color: white;
+}
